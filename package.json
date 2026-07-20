@@ -1,0 +1,24 @@
+{
+  "name": "german-vocab-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot that posts German vocabulary and quizzes it later each day.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test:words": "node src/test-events.js words",
+    "test:quiz": "node src/test-events.js quiz",
+    "generate:plan": "node scripts/generate-lesson-plan.js",
+    "generate:audio": "node scripts/generate-audio.js",
+    "validate:audio": "node scripts/validate-audio.js"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.2.3",
+    "luxon": "^3.7.2",
+    "edge-tts-universal": "^1.4.0"
+  }
+}

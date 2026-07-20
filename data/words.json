@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "0001",
+    "german": "der Apfel",
+    "english": "apple",
+    "example": "Ich esse einen Apfel.",
+    "exampleEnglish": "I am eating an apple.",
+    "audio": {
+      "word": "words/0001.mp3",
+      "example": "examples/0001.mp3"
+    }
+  },
+  {
+    "id": "0002",
+    "german": "das Brot",
+    "english": "bread",
+    "example": "Das Brot ist frisch.",
+    "exampleEnglish": "The bread is fresh.",
+    "audio": {
+      "word": "words/0002.mp3",
+      "example": "examples/0002.mp3"
+    }
+  },
+  {
+    "id": "0003",
+    "german": "der Käse",
+    "english": "cheese",
+    "example": "Ich mag Käse.",
+    "exampleEnglish": "I like cheese.",
+    "audio": {
+      "word": "words/0003.mp3",
+      "example": "examples/0003.mp3"
+    }
+  },
+  {
+    "id": "0004",
+    "german": "die Milch",
+    "english": "milk",
+    "example": "Sie trinkt Milch.",
+    "exampleEnglish": "She is drinking milk.",
+    "audio": {
+      "word": "words/0004.mp3",
+      "example": "examples/0004.mp3"
+    }
+  },
+  {
+    "id": "0005",
+    "german": "das Wasser",
+    "english": "water",
+    "example": "Ich brauche Wasser.",
+    "exampleEnglish": "I need water.",
+    "audio": {
+      "word": "words/0005.mp3",
+      "example": "examples/0005.mp3"
+    }
+  },
+  {
+    "id": "0006",
+    "german": "der Kaffee",
+    "english": "coffee",
+    "example": "Der Kaffee ist heiß.",
+    "exampleEnglish": "The coffee is hot.",
+    "audio": {
+      "word": "words/0006.mp3",
+      "example": "examples/0006.mp3"
+    }
+  },
+  {
+    "id": "0007",
+    "german": "der Hund",
+    "english": "dog",
+    "example": "Der Hund schläft.",
+    "exampleEnglish": "The dog is sleeping.",
+    "audio": {
+      "word": "words/0007.mp3",
+      "example": "examples/0007.mp3"
+    }
+  },
+  {
+    "id": "0008",
+    "german": "die Katze",
+    "english": "cat",
+    "example": "Die Katze sitzt am Fenster.",
+    "exampleEnglish": "The cat is sitting by the window.",
+    "audio": {
+      "word": "words/0008.mp3",
+      "example": "examples/0008.mp3"
+    }
+  },
+  {
+    "id": "0009",
+    "german": "der Vogel",
+    "english": "bird",
+    "example": "Der Vogel singt.",
+    "exampleEnglish": "The bird is singing.",
+    "audio": {
+      "word": "words/0009.mp3",
+      "example": "examples/0009.mp3"
+    }
+  },
+  {
+    "id": "0010",
+    "german": "das Pferd",
+    "english": "horse",
+    "example": "Das Pferd läuft schnell.",
+    "exampleEnglish": "The horse is running fast.",
+    "audio": {
+      "word": "words/0010.mp3",
+      "example": "examples/0010.mp3"
+    }
+  },
+  {
+    "id": "0011",
+    "german": "das Haus",
+    "english": "house",
+    "example": "Das Haus ist groß.",
+    "exampleEnglish": "The house is large.",
+    "audio": {
+      "word": "words/0011.mp3",
+      "example": "examples/0011.mp3"
+    }
+  },
+  {
+    "id": "0012",
+    "german": "das Zimmer",
+    "english": "room",
+    "example": "Mein Zimmer ist klein.",
+    "exampleEnglish": "My room is small.",
+    "audio": {
+      "word": "words/0012.mp3",
+      "example": "examples/0012.mp3"
+    }
+  },
+  {
+    "id": "0013",
+    "german": "die Tür",
+    "english": "door",
+    "example": "Bitte öffne die Tür.",
+    "exampleEnglish": "Please open the door.",
+    "audio": {
+      "word": "words/0013.mp3",
+      "example": "examples/0013.mp3"
+    }
+  },
+  {
+    "id": "0014",
+    "german": "das Fenster",
+    "english": "window",
+    "example": "Das Fenster ist offen.",
+    "exampleEnglish": "The window is open.",
+    "audio": {
+      "word": "words/0014.mp3",
+      "example": "examples/0014.mp3"
+    }
+  },
+  {
+    "id": "0015",
+    "german": "der Tisch",
+    "english": "table",
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleEnglish": "The book is lying on the table.",
+    "audio": {
+      "word": "words/0015.mp3",
+      "example": "examples/0015.mp3"
+    }
+  },
+  {
+    "id": "0016",
+    "german": "der Stuhl",
+    "english": "chair",
+    "example": "Der Stuhl ist bequem.",
+    "exampleEnglish": "The chair is comfortable.",
+    "audio": {
+      "word": "words/0016.mp3",
+      "example": "examples/0016.mp3"
+    }
+  },
+  {
+    "id": "0017",
+    "german": "das Buch",
+    "english": "book",
+    "example": "Ich lese ein Buch.",
+    "exampleEnglish": "I am reading a book.",
+    "audio": {
+      "word": "words/0017.mp3",
+      "example": "examples/0017.mp3"
+    }
+  },
+  {
+    "id": "0018",
+    "german": "die Schule",
+    "english": "school",
+    "example": "Die Schule beginnt um acht.",
+    "exampleEnglish": "School starts at eight.",
+    "audio": {
+      "word": "words/0018.mp3",
+      "example": "examples/0018.mp3"
+    }
+  },
+  {
+    "id": "0019",
+    "german": "der Lehrer",
+    "english": "teacher",
+    "example": "Der Lehrer erklärt die Aufgabe.",
+    "exampleEnglish": "The teacher explains the assignment.",
+    "audio": {
+      "word": "words/0019.mp3",
+      "example": "examples/0019.mp3"
+    }
+  },
+  {
+    "id": "0020",
+    "german": "die Frage",
+    "english": "question",
+    "example": "Ich habe eine Frage.",
+    "exampleEnglish": "I have a question.",
+    "audio": {
+      "word": "words/0020.mp3",
+      "example": "examples/0020.mp3"
+    }
+  },
+  {
+    "id": "0021",
+    "german": "das Auto",
+    "english": "car",
+    "example": "Das Auto ist neu.",
+    "exampleEnglish": "The car is new.",
+    "audio": {
+      "word": "words/0021.mp3",
+      "example": "examples/0021.mp3"
+    }
+  },
+  {
+    "id": "0022",
+    "german": "der Zug",
+    "english": "train",
+    "example": "Der Zug kommt später.",
+    "exampleEnglish": "The train is arriving later.",
+    "audio": {
+      "word": "words/0022.mp3",
+      "example": "examples/0022.mp3"
+    }
+  },
+  {
+    "id": "0023",
+    "german": "die Straße",
+    "english": "street",
+    "example": "Die Straße ist lang.",
+    "exampleEnglish": "The street is long.",
+    "audio": {
+      "word": "words/0023.mp3",
+      "example": "examples/0023.mp3"
+    }
+  },
+  {
+    "id": "0024",
+    "german": "das Fahrrad",
+    "english": "bicycle",
+    "example": "Ich fahre mit dem Fahrrad.",
+    "exampleEnglish": "I ride my bicycle.",
+    "audio": {
+      "word": "words/0024.mp3",
+      "example": "examples/0024.mp3"
+    }
+  },
+  {
+    "id": "0025",
+    "german": "der Baum",
+    "english": "tree",
+    "example": "Der Baum ist sehr alt.",
+    "exampleEnglish": "The tree is very old.",
+    "audio": {
+      "word": "words/0025.mp3",
+      "example": "examples/0025.mp3"
+    }
+  },
+  {
+    "id": "0026",
+    "german": "die Blume",
+    "english": "flower",
+    "example": "Die Blume ist schön.",
+    "exampleEnglish": "The flower is beautiful.",
+    "audio": {
+      "word": "words/0026.mp3",
+      "example": "examples/0026.mp3"
+    }
+  },
+  {
+    "id": "0027",
+    "german": "die Sonne",
+    "english": "sun",
+    "example": "Die Sonne scheint.",
+    "exampleEnglish": "The sun is shining.",
+    "audio": {
+      "word": "words/0027.mp3",
+      "example": "examples/0027.mp3"
+    }
+  },
+  {
+    "id": "0028",
+    "german": "der Regen",
+    "english": "rain",
+    "example": "Heute gibt es Regen.",
+    "exampleEnglish": "It is raining today.",
+    "audio": {
+      "word": "words/0028.mp3",
+      "example": "examples/0028.mp3"
+    }
+  },
+  {
+    "id": "0029",
+    "german": "gehen",
+    "english": "to go",
+    "example": "Wir gehen nach Hause.",
+    "exampleEnglish": "We are going home.",
+    "audio": {
+      "word": "words/0029.mp3",
+      "example": "examples/0029.mp3"
+    }
+  },
+  {
+    "id": "0030",
+    "german": "kommen",
+    "english": "to come",
+    "example": "Kommst du morgen?",
+    "exampleEnglish": "Are you coming tomorrow?",
+    "audio": {
+      "word": "words/0030.mp3",
+      "example": "examples/0030.mp3"
+    }
+  },
+  {
+    "id": "0031",
+    "german": "essen",
+    "english": "to eat",
+    "example": "Wir essen zusammen.",
+    "exampleEnglish": "We are eating together.",
+    "audio": {
+      "word": "words/0031.mp3",
+      "example": "examples/0031.mp3"
+    }
+  },
+  {
+    "id": "0032",
+    "german": "trinken",
+    "english": "to drink",
+    "example": "Ich trinke Tee.",
+    "exampleEnglish": "I am drinking tea.",
+    "audio": {
+      "word": "words/0032.mp3",
+      "example": "examples/0032.mp3"
+    }
+  },
+  {
+    "id": "0033",
+    "german": "lesen",
+    "english": "to read",
+    "example": "Er liest jeden Abend.",
+    "exampleEnglish": "He reads every evening.",
+    "audio": {
+      "word": "words/0033.mp3",
+      "example": "examples/0033.mp3"
+    }
+  },
+  {
+    "id": "0034",
+    "german": "schreiben",
+    "english": "to write",
+    "example": "Sie schreibt eine Nachricht.",
+    "exampleEnglish": "She is writing a message.",
+    "audio": {
+      "word": "words/0034.mp3",
+      "example": "examples/0034.mp3"
+    }
+  },
+  {
+    "id": "0035",
+    "german": "sprechen",
+    "english": "to speak",
+    "example": "Wir sprechen Deutsch.",
+    "exampleEnglish": "We speak German.",
+    "audio": {
+      "word": "words/0035.mp3",
+      "example": "examples/0035.mp3"
+    }
+  },
+  {
+    "id": "0036",
+    "german": "lernen",
+    "english": "to learn",
+    "example": "Ich lerne neue Wörter.",
+    "exampleEnglish": "I am learning new words.",
+    "audio": {
+      "word": "words/0036.mp3",
+      "example": "examples/0036.mp3"
+    }
+  },
+  {
+    "id": "0037",
+    "german": "schnell",
+    "english": "fast",
+    "example": "Das Auto ist schnell.",
+    "exampleEnglish": "The car is fast.",
+    "audio": {
+      "word": "words/0037.mp3",
+      "example": "examples/0037.mp3"
+    }
+  },
+  {
+    "id": "0038",
+    "german": "langsam",
+    "english": "slow",
+    "example": "Bitte sprich langsam.",
+    "exampleEnglish": "Please speak slowly.",
+    "audio": {
+      "word": "words/0038.mp3",
+      "example": "examples/0038.mp3"
+    }
+  },
+  {
+    "id": "0039",
+    "german": "groß",
+    "english": "big",
+    "example": "Berlin ist eine große Stadt.",
+    "exampleEnglish": "Berlin is a large city.",
+    "audio": {
+      "word": "words/0039.mp3",
+      "example": "examples/0039.mp3"
+    }
+  },
+  {
+    "id": "0040",
+    "german": "klein",
+    "english": "small",
+    "example": "Die Wohnung ist klein.",
+    "exampleEnglish": "The apartment is small.",
+    "audio": {
+      "word": "words/0040.mp3",
+      "example": "examples/0040.mp3"
+    }
+  },
+  {
+    "id": "0041",
+    "german": "glücklich",
+    "english": "happy",
+    "example": "Heute bin ich glücklich.",
+    "exampleEnglish": "I am happy today.",
+    "audio": {
+      "word": "words/0041.mp3",
+      "example": "examples/0041.mp3"
+    }
+  },
+  {
+    "id": "0042",
+    "german": "müde",
+    "english": "tired",
+    "example": "Nach der Arbeit bin ich müde.",
+    "exampleEnglish": "I am tired after work.",
+    "audio": {
+      "word": "words/0042.mp3",
+      "example": "examples/0042.mp3"
+    }
+  },
+  {
+    "id": "0043",
+    "german": "heute",
+    "english": "today",
+    "example": "Heute lerne ich Deutsch.",
+    "exampleEnglish": "I am learning German today.",
+    "audio": {
+      "word": "words/0043.mp3",
+      "example": "examples/0043.mp3"
+    }
+  },
+  {
+    "id": "0044",
+    "german": "morgen",
+    "english": "tomorrow",
+    "example": "Morgen habe ich Zeit.",
+    "exampleEnglish": "I have time tomorrow.",
+    "audio": {
+      "word": "words/0044.mp3",
+      "example": "examples/0044.mp3"
+    }
+  },
+  {
+    "id": "0045",
+    "german": "gestern",
+    "english": "yesterday",
+    "example": "Gestern war ich zu Hause.",
+    "exampleEnglish": "I was at home yesterday.",
+    "audio": {
+      "word": "words/0045.mp3",
+      "example": "examples/0045.mp3"
+    }
+  },
+  {
+    "id": "0046",
+    "german": "immer",
+    "english": "always",
+    "example": "Sie ist immer freundlich.",
+    "exampleEnglish": "She is always friendly.",
+    "audio": {
+      "word": "words/0046.mp3",
+      "example": "examples/0046.mp3"
+    }
+  },
+  {
+    "id": "0047",
+    "german": "manchmal",
+    "english": "sometimes",
+    "example": "Manchmal koche ich.",
+    "exampleEnglish": "Sometimes I cook.",
+    "audio": {
+      "word": "words/0047.mp3",
+      "example": "examples/0047.mp3"
+    }
+  },
+  {
+    "id": "0048",
+    "german": "zusammen",
+    "english": "together",
+    "example": "Wir lernen zusammen.",
+    "exampleEnglish": "We are learning together.",
+    "audio": {
+      "word": "words/0048.mp3",
+      "example": "examples/0048.mp3"
+    }
+  },
+  {
+    "id": "0049",
+    "german": "der Abend",
+    "english": "evening",
+    "example": "Hier ist der Abend.",
+    "exampleEnglish": "Here is the evening.",
+    "audio": {
+      "word": "words/0049.mp3",
+      "example": "examples/0049.mp3"
+    }
+  },
+  {
+    "id": "0050",
+    "german": "der Arzt",
+    "english": "doctor",
+    "example": "Hier ist der Arzt.",
+    "exampleEnglish": "Here is the doctor.",
+    "audio": {
+      "word": "words/0050.mp3",
+      "example": "examples/0050.mp3"
+    }
+  },
+  {
+    "id": "0051",
+    "german": "der Bahnhof",
+    "english": "train station",
+    "example": "Hier ist der Bahnhof.",
+    "exampleEnglish": "Here is the train station.",
+    "audio": {
+      "word": "words/0051.mp3",
+      "example": "examples/0051.mp3"
+    }
+  },
+  {
+    "id": "0052",
+    "german": "der Ball",
+    "english": "ball",
+    "example": "Hier ist der Ball.",
+    "exampleEnglish": "Here is the ball.",
+    "audio": {
+      "word": "words/0052.mp3",
+      "example": "examples/0052.mp3"
+    }
+  },
+  {
+    "id": "0053",
+    "german": "der Berg",
+    "english": "mountain",
+    "example": "Hier ist der Berg.",
+    "exampleEnglish": "Here is the mountain.",
+    "audio": {
+      "word": "words/0053.mp3",
+      "example": "examples/0053.mp3"
+    }
+  },
+  {
+    "id": "0054",
+    "german": "der Bildschirm",
+    "english": "screen",
+    "example": "Hier ist der Bildschirm.",
+    "exampleEnglish": "Here is the screen.",
+    "audio": {
+      "word": "words/0054.mp3",
+      "example": "examples/0054.mp3"
+    }
+  },
+  {
+    "id": "0055",
+    "german": "der Bruder",
+    "english": "brother",
+    "example": "Hier ist der Bruder.",
+    "exampleEnglish": "Here is the brother.",
+    "audio": {
+      "word": "words/0055.mp3",
+      "example": "examples/0055.mp3"
+    }
+  },
+  {
+    "id": "0056",
+    "german": "der Bus",
+    "english": "bus",
+    "example": "Hier ist der Bus.",
+    "exampleEnglish": "Here is the bus.",
+    "audio": {
+      "word": "words/0056.mp3",
+      "example": "examples/0056.mp3"
+    }
+  },
+  {
+    "id": "0057",
+    "german": "der Computer",
+    "english": "computer",
+    "example": "Hier ist der Computer.",
+    "exampleEnglish": "Here is the computer.",
+    "audio": {
+      "word": "words/0057.mp3",
+      "example": "examples/0057.mp3"
+    }
+  },
+  {
+    "id": "0058",
+    "german": "der Drucker",
+    "english": "printer",
+    "example": "Hier ist der Drucker.",
+    "exampleEnglish": "Here is the printer.",
+    "audio": {
+      "word": "words/0058.mp3",
+      "example": "examples/0058.mp3"
+    }
+  },
+  {
+    "id": "0059",
+    "german": "der Einkauf",
+    "english": "shopping",
+    "example": "Hier ist der Einkauf.",
+    "exampleEnglish": "Here is the shopping.",
+    "audio": {
+      "word": "words/0059.mp3",
+      "example": "examples/0059.mp3"
+    }
+  },
+  {
+    "id": "0060",
+    "german": "der Elefant",
+    "english": "elephant",
+    "example": "Hier ist der Elefant.",
+    "exampleEnglish": "Here is the elephant.",
+    "audio": {
+      "word": "words/0060.mp3",
+      "example": "examples/0060.mp3"
+    }
+  },
+  {
+    "id": "0061",
+    "german": "der Film",
+    "english": "movie",
+    "example": "Hier ist der Film.",
+    "exampleEnglish": "Here is the movie.",
+    "audio": {
+      "word": "words/0061.mp3",
+      "example": "examples/0061.mp3"
+    }
+  },
+  {
+    "id": "0062",
+    "german": "der Fisch",
+    "english": "fish",
+    "example": "Hier ist der Fisch.",
+    "exampleEnglish": "Here is the fish.",
+    "audio": {
+      "word": "words/0062.mp3",
+      "example": "examples/0062.mp3"
+    }
+  },
+  {
+    "id": "0063",
+    "german": "der Flughafen",
+    "english": "airport",
+    "example": "Hier ist der Flughafen.",
+    "exampleEnglish": "Here is the airport.",
+    "audio": {
+      "word": "words/0063.mp3",
+      "example": "examples/0063.mp3"
+    }
+  },
+  {
+    "id": "0064",
+    "german": "der Fluss",
+    "english": "river",
+    "example": "Hier ist der Fluss.",
+    "exampleEnglish": "Here is the river.",
+    "audio": {
+      "word": "words/0064.mp3",
+      "example": "examples/0064.mp3"
+    }
+  },
+  {
+    "id": "0065",
+    "german": "der Freund",
+    "english": "male friend",
+    "example": "Hier ist der Freund.",
+    "exampleEnglish": "Here is the male friend.",
+    "audio": {
+      "word": "words/0065.mp3",
+      "example": "examples/0065.mp3"
+    }
+  },
+  {
+    "id": "0066",
+    "german": "der Garten",
+    "english": "garden",
+    "example": "Hier ist der Garten.",
+    "exampleEnglish": "Here is the garden.",
+    "audio": {
+      "word": "words/0066.mp3",
+      "example": "examples/0066.mp3"
+    }
+  },
+  {
+    "id": "0067",
+    "german": "der Geburtstag",
+    "english": "birthday",
+    "example": "Hier ist der Geburtstag.",
+    "exampleEnglish": "Here is the birthday.",
+    "audio": {
+      "word": "words/0067.mp3",
+      "example": "examples/0067.mp3"
+    }
+  },
+  {
+    "id": "0068",
+    "german": "der Geldbeutel",
+    "english": "wallet",
+    "example": "Hier ist der Geldbeutel.",
+    "exampleEnglish": "Here is the wallet.",
+    "audio": {
+      "word": "words/0068.mp3",
+      "example": "examples/0068.mp3"
+    }
+  },
+  {
+    "id": "0069",
+    "german": "der Hafen",
+    "english": "harbor",
+    "example": "Hier ist der Hafen.",
+    "exampleEnglish": "Here is the harbor.",
+    "audio": {
+      "word": "words/0069.mp3",
+      "example": "examples/0069.mp3"
+    }
+  },
+  {
+    "id": "0070",
+    "german": "der Hase",
+    "english": "rabbit",
+    "example": "Hier ist der Hase.",
+    "exampleEnglish": "Here is the rabbit.",
+    "audio": {
+      "word": "words/0070.mp3",
+      "example": "examples/0070.mp3"
+    }
+  },
+  {
+    "id": "0071",
+    "german": "der Herbst",
+    "english": "autumn",
+    "example": "Hier ist der Herbst.",
+    "exampleEnglish": "Here is the autumn.",
+    "audio": {
+      "word": "words/0071.mp3",
+      "example": "examples/0071.mp3"
+    }
+  },
+  {
+    "id": "0072",
+    "german": "der Himmel",
+    "english": "sky",
+    "example": "Hier ist der Himmel.",
+    "exampleEnglish": "Here is the sky.",
+    "audio": {
+      "word": "words/0072.mp3",
+      "example": "examples/0072.mp3"
+    }
+  },
+  {
+    "id": "0073",
+    "german": "der Hunger",
+    "english": "hunger",
+    "example": "Hier ist der Hunger.",
+    "exampleEnglish": "Here is the hunger.",
+    "audio": {
+      "word": "words/0073.mp3",
+      "example": "examples/0073.mp3"
+    }
+  },
+  {
+    "id": "0074",
+    "german": "der Käfig",
+    "english": "cage",
+    "example": "Hier ist der Käfig.",
+    "exampleEnglish": "Here is the cage.",
+    "audio": {
+      "word": "words/0074.mp3",
+      "example": "examples/0074.mp3"
+    }
+  },
+  {
+    "id": "0075",
+    "german": "der Kalender",
+    "english": "calendar",
+    "example": "Hier ist der Kalender.",
+    "exampleEnglish": "Here is the calendar.",
+    "audio": {
+      "word": "words/0075.mp3",
+      "example": "examples/0075.mp3"
+    }
+  },
+  {
+    "id": "0076",
+    "german": "der Keller",
+    "english": "basement",
+    "example": "Hier ist der Keller.",
+    "exampleEnglish": "Here is the basement.",
+    "audio": {
+      "word": "words/0076.mp3",
+      "example": "examples/0076.mp3"
+    }
+  },
+  {
+    "id": "0077",
+    "german": "der Schlüssel",
+    "english": "key",
+    "example": "Hier ist der Schlüssel.",
+    "exampleEnglish": "Here is the key.",
+    "audio": {
+      "word": "words/0077.mp3",
+      "example": "examples/0077.mp3"
+    }
+  },
+  {
+    "id": "0078",
+    "german": "der Kühlschrank",
+    "english": "refrigerator",
+    "example": "Hier ist der Kühlschrank.",
+    "exampleEnglish": "Here is the refrigerator.",
+    "audio": {
+      "word": "words/0078.mp3",
+      "example": "examples/0078.mp3"
+    }
+  },
+  {
+    "id": "0079",
+    "german": "der Kuchen",
+    "english": "cake",
+    "example": "Hier ist der Kuchen.",
+    "exampleEnglish": "Here is the cake.",
+    "audio": {
+      "word": "words/0079.mp3",
+      "example": "examples/0079.mp3"
+    }
+  },
+  {
+    "id": "0080",
+    "german": "der Laden",
+    "english": "shop",
+    "example": "Hier ist der Laden.",
+    "exampleEnglish": "Here is the shop.",
+    "audio": {
+      "word": "words/0080.mp3",
+      "example": "examples/0080.mp3"
+    }
+  },
+  {
+    "id": "0081",
+    "german": "der Löffel",
+    "english": "spoon",
+    "example": "Hier ist der Löffel.",
+    "exampleEnglish": "Here is the spoon.",
+    "audio": {
+      "word": "words/0081.mp3",
+      "example": "examples/0081.mp3"
+    }
+  },
+  {
+    "id": "0082",
+    "german": "der Markt",
+    "english": "market",
+    "example": "Hier ist der Markt.",
+    "exampleEnglish": "Here is the market.",
+    "audio": {
+      "word": "words/0082.mp3",
+      "example": "examples/0082.mp3"
+    }
+  },
+  {
+    "id": "0083",
+    "german": "der Mond",
+    "english": "moon",
+    "example": "Hier ist der Mond.",
+    "exampleEnglish": "Here is the moon.",
+    "audio": {
+      "word": "words/0083.mp3",
+      "example": "examples/0083.mp3"
+    }
+  },
+  {
+    "id": "0084",
+    "german": "der Morgen",
+    "english": "morning",
+    "example": "Hier ist der Morgen.",
+    "exampleEnglish": "Here is the morning.",
+    "audio": {
+      "word": "words/0084.mp3",
+      "example": "examples/0084.mp3"
+    }
+  },
+  {
+    "id": "0085",
+    "german": "der Nachbar",
+    "english": "male neighbor",
+    "example": "Hier ist der Nachbar.",
+    "exampleEnglish": "Here is the male neighbor.",
+    "audio": {
+      "word": "words/0085.mp3",
+      "example": "examples/0085.mp3"
+    }
+  },
+  {
+    "id": "0086",
+    "german": "der Name",
+    "english": "name",
+    "example": "Hier ist der Name.",
+    "exampleEnglish": "Here is the name.",
+    "audio": {
+      "word": "words/0086.mp3",
+      "example": "examples/0086.mp3"
+    }
+  },
+  {
+    "id": "0087",
+    "german": "der Park",
+    "english": "park",
+    "example": "Hier ist der Park.",
+    "exampleEnglish": "Here is the park.",
+    "audio": {
+      "word": "words/0087.mp3",
+      "example": "examples/0087.mp3"
+    }
+  },
+  {
+    "id": "0088",
+    "german": "der Pass",
+    "english": "passport",
+    "example": "Hier ist der Pass.",
+    "exampleEnglish": "Here is the passport.",
+    "audio": {
+      "word": "words/0088.mp3",
+      "example": "examples/0088.mp3"
+    }
+  },
+  {
+    "id": "0089",
+    "german": "der Platz",
+    "english": "square",
+    "example": "Hier ist der Platz.",
+    "exampleEnglish": "Here is the square.",
+    "audio": {
+      "word": "words/0089.mp3",
+      "example": "examples/0089.mp3"
+    }
+  },
+  {
+    "id": "0090",
+    "german": "der Pullover",
+    "english": "sweater",
+    "example": "Hier ist der Pullover.",
+    "exampleEnglish": "Here is the sweater.",
+    "audio": {
+      "word": "words/0090.mp3",
+      "example": "examples/0090.mp3"
+    }
+  },
+  {
+    "id": "0091",
+    "german": "der Rucksack",
+    "english": "backpack",
+    "example": "Hier ist der Rucksack.",
+    "exampleEnglish": "Here is the backpack.",
+    "audio": {
+      "word": "words/0091.mp3",
+      "example": "examples/0091.mp3"
+    }
+  },
+  {
+    "id": "0092",
+    "german": "der Saft",
+    "english": "juice",
+    "example": "Hier ist der Saft.",
+    "exampleEnglish": "Here is the juice.",
+    "audio": {
+      "word": "words/0092.mp3",
+      "example": "examples/0092.mp3"
+    }
+  },
+  {
+    "id": "0093",
+    "german": "der Schrank",
+    "english": "cabinet",
+    "example": "Hier ist der Schrank.",
+    "exampleEnglish": "Here is the cabinet.",
+    "audio": {
+      "word": "words/0093.mp3",
+      "example": "examples/0093.mp3"
+    }
+  },
+  {
+    "id": "0094",
+    "german": "der Schreibtisch",
+    "english": "desk",
+    "example": "Hier ist der Schreibtisch.",
+    "exampleEnglish": "Here is the desk.",
+    "audio": {
+      "word": "words/0094.mp3",
+      "example": "examples/0094.mp3"
+    }
+  },
+  {
+    "id": "0095",
+    "german": "der Schuh",
+    "english": "shoe",
+    "example": "Hier ist der Schuh.",
+    "exampleEnglish": "Here is the shoe.",
+    "audio": {
+      "word": "words/0095.mp3",
+      "example": "examples/0095.mp3"
+    }
+  },
+  {
+    "id": "0096",
+    "german": "der See",
+    "english": "lake",
+    "example": "Hier ist der See.",
+    "exampleEnglish": "Here is the lake.",
+    "audio": {
+      "word": "words/0096.mp3",
+      "example": "examples/0096.mp3"
+    }
+  },
+  {
+    "id": "0097",
+    "german": "der Sommer",
+    "english": "summer",
+    "example": "Hier ist der Sommer.",
+    "exampleEnglish": "Here is the summer.",
+    "audio": {
+      "word": "words/0097.mp3",
+      "example": "examples/0097.mp3"
+    }
+  },
+  {
+    "id": "0098",
+    "german": "der Spiegel",
+    "english": "mirror",
+    "example": "Hier ist der Spiegel.",
+    "exampleEnglish": "Here is the mirror.",
+    "audio": {
+      "word": "words/0098.mp3",
+      "example": "examples/0098.mp3"
+    }
+  },
+  {
+    "id": "0099",
+    "german": "der Sport",
+    "english": "sport",
+    "example": "Hier ist der Sport.",
+    "exampleEnglish": "Here is the sport.",
+    "audio": {
+      "word": "words/0099.mp3",
+      "example": "examples/0099.mp3"
+    }
+  },
+  {
+    "id": "0100",
+    "german": "der Strand",
+    "english": "beach",
+    "example": "Hier ist der Strand.",
+    "exampleEnglish": "Here is the beach.",
+    "audio": {
+      "word": "words/0100.mp3",
+      "example": "examples/0100.mp3"
+    }
+  },
+  {
+    "id": "0101",
+    "german": "der Supermarkt",
+    "english": "supermarket",
+    "example": "Hier ist der Supermarkt.",
+    "exampleEnglish": "Here is the supermarket.",
+    "audio": {
+      "word": "words/0101.mp3",
+      "example": "examples/0101.mp3"
+    }
+  },
+  {
+    "id": "0102",
+    "german": "der Teller",
+    "english": "plate",
+    "example": "Hier ist der Teller.",
+    "exampleEnglish": "Here is the plate.",
+    "audio": {
+      "word": "words/0102.mp3",
+      "example": "examples/0102.mp3"
+    }
+  },
+  {
+    "id": "0103",
+    "german": "der Termin",
+    "english": "appointment",
+    "example": "Hier ist der Termin.",
+    "exampleEnglish": "Here is the appointment.",
+    "audio": {
+      "word": "words/0103.mp3",
+      "example": "examples/0103.mp3"
+    }
+  },
+  {
+    "id": "0104",
+    "german": "der Teppich",
+    "english": "carpet",
+    "example": "Hier ist der Teppich.",
+    "exampleEnglish": "Here is the carpet.",
+    "audio": {
+      "word": "words/0104.mp3",
+      "example": "examples/0104.mp3"
+    }
+  },
+  {
+    "id": "0105",
+    "german": "der Topf",
+    "english": "pot",
+    "example": "Hier ist der Topf.",
+    "exampleEnglish": "Here is the pot.",
+    "audio": {
+      "word": "words/0105.mp3",
+      "example": "examples/0105.mp3"
+    }
+  },
+  {
+    "id": "0106",
+    "german": "der Urlaub",
+    "english": "vacation",
+    "example": "Hier ist der Urlaub.",
+    "exampleEnglish": "Here is the vacation.",
+    "audio": {
+      "word": "words/0106.mp3",
+      "example": "examples/0106.mp3"
+    }
+  },
+  {
+    "id": "0107",
+    "german": "der Vater",
+    "english": "father",
+    "example": "Hier ist der Vater.",
+    "exampleEnglish": "Here is the father.",
+    "audio": {
+      "word": "words/0107.mp3",
+      "example": "examples/0107.mp3"
+    }
+  },
+  {
+    "id": "0108",
+    "german": "der Weg",
+    "english": "path",
+    "example": "Hier ist der Weg.",
+    "exampleEnglish": "Here is the path.",
+    "audio": {
+      "word": "words/0108.mp3",
+      "example": "examples/0108.mp3"
+    }
+  },
+  {
+    "id": "0109",
+    "german": "der Wecker",
+    "english": "alarm clock",
+    "example": "Hier ist der Wecker.",
+    "exampleEnglish": "Here is the alarm clock.",
+    "audio": {
+      "word": "words/0109.mp3",
+      "example": "examples/0109.mp3"
+    }
+  },
+  {
+    "id": "0110",
+    "german": "der Wein",
+    "english": "wine",
+    "example": "Hier ist der Wein.",
+    "exampleEnglish": "Here is the wine.",
+    "audio": {
+      "word": "words/0110.mp3",
+      "example": "examples/0110.mp3"
+    }
+  },
+  {
+    "id": "0111",
+    "german": "der Winter",
+    "english": "winter",
+    "example": "Hier ist der Winter.",
+    "exampleEnglish": "Here is the winter.",
+    "audio": {
+      "word": "words/0111.mp3",
+      "example": "examples/0111.mp3"
+    }
+  },
+  {
+    "id": "0112",
+    "german": "der Zahn",
+    "english": "tooth",
+    "example": "Hier ist der Zahn.",
+    "exampleEnglish": "Here is the tooth.",
+    "audio": {
+      "word": "words/0112.mp3",
+      "example": "examples/0112.mp3"
+    }
+  },
+  {
+    "id": "0113",
+    "german": "der Zoo",
+    "english": "zoo",
+    "example": "Hier ist der Zoo.",
+    "exampleEnglish": "Here is the zoo.",
+    "audio": {
+      "word": "words/0113.mp3",
+      "example": "examples/0113.mp3"
+    }
+  },
+  {
+    "id": "0114",
+    "german": "die Ampel",
+    "english": "traffic light",
+    "example": "Hier ist die Ampel.",
+    "exampleEnglish": "Here is the traffic light.",
+    "audio": {
+      "word": "words/0114.mp3",
+      "example": "examples/0114.mp3"
+    }
+  },
+  {
+    "id": "0115",
+    "german": "die Arbeit",
+    "english": "work",
+    "example": "Hier ist die Arbeit.",
+    "exampleEnglish": "Here is the work.",
+    "audio": {
+      "word": "words/0115.mp3",
+      "example": "examples/0115.mp3"
+    }
+  },
+  {
+    "id": "0116",
+    "german": "die Banane",
+    "english": "banana",
+    "example": "Hier ist die Banane.",
+    "exampleEnglish": "Here is the banana.",
+    "audio": {
+      "word": "words/0116.mp3",
+      "example": "examples/0116.mp3"
+    }
+  },
+  {
+    "id": "0117",
+    "german": "die Bank",
+    "english": "bank",
+    "example": "Hier ist die Bank.",
+    "exampleEnglish": "Here is the bank.",
+    "audio": {
+      "word": "words/0117.mp3",
+      "example": "examples/0117.mp3"
+    }
+  },
+  {
+    "id": "0118",
+    "german": "die Batterie",
+    "english": "battery",
+    "example": "Hier ist die Batterie.",
+    "exampleEnglish": "Here is the battery.",
+    "audio": {
+      "word": "words/0118.mp3",
+      "example": "examples/0118.mp3"
+    }
+  },
+  {
+    "id": "0119",
+    "german": "die Brille",
+    "english": "glasses",
+    "example": "Hier ist die Brille.",
+    "exampleEnglish": "Here is the glasses.",
+    "audio": {
+      "word": "words/0119.mp3",
+      "example": "examples/0119.mp3"
+    }
+  },
+  {
+    "id": "0120",
+    "german": "die Brücke",
+    "english": "bridge",
+    "example": "Hier ist die Brücke.",
+    "exampleEnglish": "Here is the bridge.",
+    "audio": {
+      "word": "words/0120.mp3",
+      "example": "examples/0120.mp3"
+    }
+  },
+  {
+    "id": "0121",
+    "german": "die Butter",
+    "english": "butter",
+    "example": "Hier ist die Butter.",
+    "exampleEnglish": "Here is the butter.",
+    "audio": {
+      "word": "words/0121.mp3",
+      "example": "examples/0121.mp3"
+    }
+  },
+  {
+    "id": "0122",
+    "german": "die Decke",
+    "english": "blanket",
+    "example": "Hier ist die Decke.",
+    "exampleEnglish": "Here is the blanket.",
+    "audio": {
+      "word": "words/0122.mp3",
+      "example": "examples/0122.mp3"
+    }
+  },
+  {
+    "id": "0123",
+    "german": "die Dose",
+    "english": "can",
+    "example": "Hier ist die Dose.",
+    "exampleEnglish": "Here is the can.",
+    "audio": {
+      "word": "words/0123.mp3",
+      "example": "examples/0123.mp3"
+    }
+  },
+  {
+    "id": "0124",
+    "german": "die Dusche",
+    "english": "shower",
+    "example": "Hier ist die Dusche.",
+    "exampleEnglish": "Here is the shower.",
+    "audio": {
+      "word": "words/0124.mp3",
+      "example": "examples/0124.mp3"
+    }
+  },
+  {
+    "id": "0125",
+    "german": "die Ecke",
+    "english": "corner",
+    "example": "Hier ist die Ecke.",
+    "exampleEnglish": "Here is the corner.",
+    "audio": {
+      "word": "words/0125.mp3",
+      "example": "examples/0125.mp3"
+    }
+  },
+  {
+    "id": "0126",
+    "german": "die Familie",
+    "english": "family",
+    "example": "Hier ist die Familie.",
+    "exampleEnglish": "Here is the family.",
+    "audio": {
+      "word": "words/0126.mp3",
+      "example": "examples/0126.mp3"
+    }
+  },
+  {
+    "id": "0127",
+    "german": "die Flasche",
+    "english": "bottle",
+    "example": "Hier ist die Flasche.",
+    "exampleEnglish": "Here is the bottle.",
+    "audio": {
+      "word": "words/0127.mp3",
+      "example": "examples/0127.mp3"
+    }
+  },
+  {
+    "id": "0128",
+    "german": "die Frau",
+    "english": "woman",
+    "example": "Hier ist die Frau.",
+    "exampleEnglish": "Here is the woman.",
+    "audio": {
+      "word": "words/0128.mp3",
+      "example": "examples/0128.mp3"
+    }
+  },
+  {
+    "id": "0129",
+    "german": "die Gabel",
+    "english": "fork",
+    "example": "Hier ist die Gabel.",
+    "exampleEnglish": "Here is the fork.",
+    "audio": {
+      "word": "words/0129.mp3",
+      "example": "examples/0129.mp3"
+    }
+  },
+  {
+    "id": "0130",
+    "german": "die Garage",
+    "english": "garage",
+    "example": "Hier ist die Garage.",
+    "exampleEnglish": "Here is the garage.",
+    "audio": {
+      "word": "words/0130.mp3",
+      "example": "examples/0130.mp3"
+    }
+  },
+  {
+    "id": "0131",
+    "german": "die Hand",
+    "english": "hand",
+    "example": "Hier ist die Hand.",
+    "exampleEnglish": "Here is the hand.",
+    "audio": {
+      "word": "words/0131.mp3",
+      "example": "examples/0131.mp3"
+    }
+  },
+  {
+    "id": "0132",
+    "german": "die Hose",
+    "english": "pants",
+    "example": "Hier ist die Hose.",
+    "exampleEnglish": "Here is the pants.",
+    "audio": {
+      "word": "words/0132.mp3",
+      "example": "examples/0132.mp3"
+    }
+  },
+  {
+    "id": "0133",
+    "german": "die Jacke",
+    "english": "jacket",
+    "example": "Hier ist die Jacke.",
+    "exampleEnglish": "Here is the jacket.",
+    "audio": {
+      "word": "words/0133.mp3",
+      "example": "examples/0133.mp3"
+    }
+  },
+  {
+    "id": "0134",
+    "german": "die Küche",
+    "english": "kitchen",
+    "example": "Hier ist die Küche.",
+    "exampleEnglish": "Here is the kitchen.",
+    "audio": {
+      "word": "words/0134.mp3",
+      "example": "examples/0134.mp3"
+    }
+  },
+  {
+    "id": "0135",
+    "german": "die Lampe",
+    "english": "lamp",
+    "example": "Hier ist die Lampe.",
+    "exampleEnglish": "Here is the lamp.",
+    "audio": {
+      "word": "words/0135.mp3",
+      "example": "examples/0135.mp3"
+    }
+  },
+  {
+    "id": "0136",
+    "german": "die Maus",
+    "english": "mouse",
+    "example": "Hier ist die Maus.",
+    "exampleEnglish": "Here is the mouse.",
+    "audio": {
+      "word": "words/0136.mp3",
+      "example": "examples/0136.mp3"
+    }
+  },
+  {
+    "id": "0137",
+    "german": "die Mutter",
+    "english": "mother",
+    "example": "Hier ist die Mutter.",
+    "exampleEnglish": "Here is the mother.",
+    "audio": {
+      "word": "words/0137.mp3",
+      "example": "examples/0137.mp3"
+    }
+  },
+  {
+    "id": "0138",
+    "german": "die Nacht",
+    "english": "night",
+    "example": "Hier ist die Nacht.",
+    "exampleEnglish": "Here is the night.",
+    "audio": {
+      "word": "words/0138.mp3",
+      "example": "examples/0138.mp3"
+    }
+  },
+  {
+    "id": "0139",
+    "german": "die Nase",
+    "english": "nose",
+    "example": "Hier ist die Nase.",
+    "exampleEnglish": "Here is the nose.",
+    "audio": {
+      "word": "words/0139.mp3",
+      "example": "examples/0139.mp3"
+    }
+  },
+  {
+    "id": "0140",
+    "german": "die Nummer",
+    "english": "number",
+    "example": "Hier ist die Nummer.",
+    "exampleEnglish": "Here is the number.",
+    "audio": {
+      "word": "words/0140.mp3",
+      "example": "examples/0140.mp3"
+    }
+  },
+  {
+    "id": "0141",
+    "german": "die Orange",
+    "english": "orange",
+    "example": "Hier ist die Orange.",
+    "exampleEnglish": "Here is the orange.",
+    "audio": {
+      "word": "words/0141.mp3",
+      "example": "examples/0141.mp3"
+    }
+  },
+  {
+    "id": "0142",
+    "german": "die Pause",
+    "english": "break",
+    "example": "Hier ist die Pause.",
+    "exampleEnglish": "Here is the break.",
+    "audio": {
+      "word": "words/0142.mp3",
+      "example": "examples/0142.mp3"
+    }
+  },
+  {
+    "id": "0143",
+    "german": "die Pflanze",
+    "english": "plant",
+    "example": "Hier ist die Pflanze.",
+    "exampleEnglish": "Here is the plant.",
+    "audio": {
+      "word": "words/0143.mp3",
+      "example": "examples/0143.mp3"
+    }
+  },
+  {
+    "id": "0144",
+    "german": "die Polizei",
+    "english": "police",
+    "example": "Hier ist die Polizei.",
+    "exampleEnglish": "Here is the police.",
+    "audio": {
+      "word": "words/0144.mp3",
+      "example": "examples/0144.mp3"
+    }
+  },
+  {
+    "id": "0145",
+    "german": "die Post",
+    "english": "post office",
+    "example": "Hier ist die Post.",
+    "exampleEnglish": "Here is the post office.",
+    "audio": {
+      "word": "words/0145.mp3",
+      "example": "examples/0145.mp3"
+    }
+  },
+  {
+    "id": "0146",
+    "german": "die Rechnung",
+    "english": "bill",
+    "example": "Hier ist die Rechnung.",
+    "exampleEnglish": "Here is the bill.",
+    "audio": {
+      "word": "words/0146.mp3",
+      "example": "examples/0146.mp3"
+    }
+  },
+  {
+    "id": "0147",
+    "german": "die Reise",
+    "english": "trip",
+    "example": "Hier ist die Reise.",
+    "exampleEnglish": "Here is the trip.",
+    "audio": {
+      "word": "words/0147.mp3",
+      "example": "examples/0147.mp3"
+    }
+  },
+  {
+    "id": "0148",
+    "german": "die Schwester",
+    "english": "sister",
+    "example": "Hier ist die Schwester.",
+    "exampleEnglish": "Here is the sister.",
+    "audio": {
+      "word": "words/0148.mp3",
+      "example": "examples/0148.mp3"
+    }
+  },
+  {
+    "id": "0149",
+    "german": "die Socke",
+    "english": "sock",
+    "example": "Hier ist die Socke.",
+    "exampleEnglish": "Here is the sock.",
+    "audio": {
+      "word": "words/0149.mp3",
+      "example": "examples/0149.mp3"
+    }
+  },
+  {
+    "id": "0150",
+    "german": "die Stadt",
+    "english": "city",
+    "example": "Hier ist die Stadt.",
+    "exampleEnglish": "Here is the city.",
+    "audio": {
+      "word": "words/0150.mp3",
+      "example": "examples/0150.mp3"
+    }
+  },
+  {
+    "id": "0151",
+    "german": "die Tasche",
+    "english": "bag",
+    "example": "Hier ist die Tasche.",
+    "exampleEnglish": "Here is the bag.",
+    "audio": {
+      "word": "words/0151.mp3",
+      "example": "examples/0151.mp3"
+    }
+  },
+  {
+    "id": "0152",
+    "german": "die Tasse",
+    "english": "cup",
+    "example": "Hier ist die Tasse.",
+    "exampleEnglish": "Here is the cup.",
+    "audio": {
+      "word": "words/0152.mp3",
+      "example": "examples/0152.mp3"
+    }
+  },
+  {
+    "id": "0153",
+    "german": "die Toilette",
+    "english": "toilet",
+    "example": "Hier ist die Toilette.",
+    "exampleEnglish": "Here is the toilet.",
+    "audio": {
+      "word": "words/0153.mp3",
+      "example": "examples/0153.mp3"
+    }
+  },
+  {
+    "id": "0154",
+    "german": "die Uhr",
+    "english": "clock",
+    "example": "Hier ist die Uhr.",
+    "exampleEnglish": "Here is the clock.",
+    "audio": {
+      "word": "words/0154.mp3",
+      "example": "examples/0154.mp3"
+    }
+  },
+  {
+    "id": "0155",
+    "german": "die Universität",
+    "english": "university",
+    "example": "Hier ist die Universität.",
+    "exampleEnglish": "Here is the university.",
+    "audio": {
+      "word": "words/0155.mp3",
+      "example": "examples/0155.mp3"
+    }
+  },
+  {
+    "id": "0156",
+    "german": "die Wand",
+    "english": "wall",
+    "example": "Hier ist die Wand.",
+    "exampleEnglish": "Here is the wall.",
+    "audio": {
+      "word": "words/0156.mp3",
+      "example": "examples/0156.mp3"
+    }
+  },
+  {
+    "id": "0157",
+    "german": "die Woche",
+    "english": "week",
+    "example": "Hier ist die Woche.",
+    "exampleEnglish": "Here is the week.",
+    "audio": {
+      "word": "words/0157.mp3",
+      "example": "examples/0157.mp3"
+    }
+  },
+  {
+    "id": "0158",
+    "german": "die Zeitung",
+    "english": "newspaper",
+    "example": "Hier ist die Zeitung.",
+    "exampleEnglish": "Here is the newspaper.",
+    "audio": {
+      "word": "words/0158.mp3",
+      "example": "examples/0158.mp3"
+    }
+  },
+  {
+    "id": "0159",
+    "german": "die Zitrone",
+    "english": "lemon",
+    "example": "Hier ist die Zitrone.",
+    "exampleEnglish": "Here is the lemon.",
+    "audio": {
+      "word": "words/0159.mp3",
+      "example": "examples/0159.mp3"
+    }
+  },
+  {
+    "id": "0160",
+    "german": "die Wohnung",
+    "english": "apartment",
+    "example": "Hier ist die Wohnung.",
+    "exampleEnglish": "Here is the apartment.",
+    "audio": {
+      "word": "words/0160.mp3",
+      "example": "examples/0160.mp3"
+    }
+  },
+  {
+    "id": "0161",
+    "german": "die Kamera",
+    "english": "camera",
+    "example": "Hier ist die Kamera.",
+    "exampleEnglish": "Here is the camera.",
+    "audio": {
+      "word": "words/0161.mp3",
+      "example": "examples/0161.mp3"
+    }
+  },
+  {
+    "id": "0162",
+    "german": "die Karte",
+    "english": "map",
+    "example": "Hier ist die Karte.",
+    "exampleEnglish": "Here is the map.",
+    "audio": {
+      "word": "words/0162.mp3",
+      "example": "examples/0162.mp3"
+    }
+  },
+  {
+    "id": "0163",
+    "german": "die Kasse",
+    "english": "checkout",
+    "example": "Hier ist die Kasse.",
+    "exampleEnglish": "Here is the checkout.",
+    "audio": {
+      "word": "words/0163.mp3",
+      "example": "examples/0163.mp3"
+    }
+  },
+  {
+    "id": "0164",
+    "german": "die Kirche",
+    "english": "church",
+    "example": "Hier ist die Kirche.",
+    "exampleEnglish": "Here is the church.",
+    "audio": {
+      "word": "words/0164.mp3",
+      "example": "examples/0164.mp3"
+    }
+  },
+  {
+    "id": "0165",
+    "german": "die Insel",
+    "english": "island",
+    "example": "Hier ist die Insel.",
+    "exampleEnglish": "Here is the island.",
+    "audio": {
+      "word": "words/0165.mp3",
+      "example": "examples/0165.mp3"
+    }
+  },
+  {
+    "id": "0166",
+    "german": "die Medizin",
+    "english": "medicine",
+    "example": "Hier ist die Medizin.",
+    "exampleEnglish": "Here is the medicine.",
+    "audio": {
+      "word": "words/0166.mp3",
+      "example": "examples/0166.mp3"
+    }
+  },
+  {
+    "id": "0167",
+    "german": "die Minute",
+    "english": "minute",
+    "example": "Hier ist die Minute.",
+    "exampleEnglish": "Here is the minute.",
+    "audio": {
+      "word": "words/0167.mp3",
+      "example": "examples/0167.mp3"
+    }
+  },
+  {
+    "id": "0168",
+    "german": "die Musik",
+    "english": "music",
+    "example": "Hier ist die Musik.",
+    "exampleEnglish": "Here is the music.",
+    "audio": {
+      "word": "words/0168.mp3",
+      "example": "examples/0168.mp3"
+    }
+  },
+  {
+    "id": "0169",
+    "german": "die Party",
+    "english": "party",
+    "example": "Hier ist die Party.",
+    "exampleEnglish": "Here is the party.",
+    "audio": {
+      "word": "words/0169.mp3",
+      "example": "examples/0169.mp3"
+    }
+  },
+  {
+    "id": "0170",
+    "german": "die Pizza",
+    "english": "pizza",
+    "example": "Hier ist die Pizza.",
+    "exampleEnglish": "Here is the pizza.",
+    "audio": {
+      "word": "words/0170.mp3",
+      "example": "examples/0170.mp3"
+    }
+  },
+  {
+    "id": "0171",
+    "german": "die Suppe",
+    "english": "soup",
+    "example": "Hier ist die Suppe.",
+    "exampleEnglish": "Here is the soup.",
+    "audio": {
+      "word": "words/0171.mp3",
+      "example": "examples/0171.mp3"
+    }
+  },
+  {
+    "id": "0172",
+    "german": "die Treppe",
+    "english": "stairs",
+    "example": "Hier ist die Treppe.",
+    "exampleEnglish": "Here is the stairs.",
+    "audio": {
+      "word": "words/0172.mp3",
+      "example": "examples/0172.mp3"
+    }
+  },
+  {
+    "id": "0173",
+    "german": "die Wolke",
+    "english": "cloud",
+    "example": "Hier ist die Wolke.",
+    "exampleEnglish": "Here is the cloud.",
+    "audio": {
+      "word": "words/0173.mp3",
+      "example": "examples/0173.mp3"
+    }
+  },
+  {
+    "id": "0174",
+    "german": "das Auge",
+    "english": "eye",
+    "example": "Hier ist das Auge.",
+    "exampleEnglish": "Here is the eye.",
+    "audio": {
+      "word": "words/0174.mp3",
+      "example": "examples/0174.mp3"
+    }
+  },
+  {
+    "id": "0175",
+    "german": "das Bad",
+    "english": "bathroom",
+    "example": "Hier ist das Bad.",
+    "exampleEnglish": "Here is the bathroom.",
+    "audio": {
+      "word": "words/0175.mp3",
+      "example": "examples/0175.mp3"
+    }
+  },
+  {
+    "id": "0176",
+    "german": "das Bett",
+    "english": "bed",
+    "example": "Hier ist das Bett.",
+    "exampleEnglish": "Here is the bed.",
+    "audio": {
+      "word": "words/0176.mp3",
+      "example": "examples/0176.mp3"
+    }
+  },
+  {
+    "id": "0177",
+    "german": "das Bier",
+    "english": "beer",
+    "example": "Hier ist das Bier.",
+    "exampleEnglish": "Here is the beer.",
+    "audio": {
+      "word": "words/0177.mp3",
+      "example": "examples/0177.mp3"
+    }
+  },
+  {
+    "id": "0178",
+    "german": "das Bild",
+    "english": "picture",
+    "example": "Hier ist das Bild.",
+    "exampleEnglish": "Here is the picture.",
+    "audio": {
+      "word": "words/0178.mp3",
+      "example": "examples/0178.mp3"
+    }
+  },
+  {
+    "id": "0179",
+    "german": "das Büro",
+    "english": "office",
+    "example": "Hier ist das Büro.",
+    "exampleEnglish": "Here is the office.",
+    "audio": {
+      "word": "words/0179.mp3",
+      "example": "examples/0179.mp3"
+    }
+  },
+  {
+    "id": "0180",
+    "german": "das Dach",
+    "english": "roof",
+    "example": "Hier ist das Dach.",
+    "exampleEnglish": "Here is the roof.",
+    "audio": {
+      "word": "words/0180.mp3",
+      "example": "examples/0180.mp3"
+    }
+  },
+  {
+    "id": "0181",
+    "german": "das Dorf",
+    "english": "village",
+    "example": "Hier ist das Dorf.",
+    "exampleEnglish": "Here is the village.",
+    "audio": {
+      "word": "words/0181.mp3",
+      "example": "examples/0181.mp3"
+    }
+  },
+  {
+    "id": "0182",
+    "german": "das Ei",
+    "english": "egg",
+    "example": "Hier ist das Ei.",
+    "exampleEnglish": "Here is the egg.",
+    "audio": {
+      "word": "words/0182.mp3",
+      "example": "examples/0182.mp3"
+    }
+  },
+  {
+    "id": "0183",
+    "german": "das Eis",
+    "english": "ice cream",
+    "example": "Hier ist das Eis.",
+    "exampleEnglish": "Here is the ice cream.",
+    "audio": {
+      "word": "words/0183.mp3",
+      "example": "examples/0183.mp3"
+    }
+  },
+  {
+    "id": "0184",
+    "german": "das Flugzeug",
+    "english": "airplane",
+    "example": "Hier ist das Flugzeug.",
+    "exampleEnglish": "Here is the airplane.",
+    "audio": {
+      "word": "words/0184.mp3",
+      "example": "examples/0184.mp3"
+    }
+  },
+  {
+    "id": "0185",
+    "german": "das Formular",
+    "english": "form",
+    "example": "Hier ist das Formular.",
+    "exampleEnglish": "Here is the form.",
+    "audio": {
+      "word": "words/0185.mp3",
+      "example": "examples/0185.mp3"
+    }
+  },
+  {
+    "id": "0186",
+    "german": "das Frühstück",
+    "english": "breakfast",
+    "example": "Hier ist das Frühstück.",
+    "exampleEnglish": "Here is the breakfast.",
+    "audio": {
+      "word": "words/0186.mp3",
+      "example": "examples/0186.mp3"
+    }
+  },
+  {
+    "id": "0187",
+    "german": "das Geschenk",
+    "english": "gift",
+    "example": "Hier ist das Geschenk.",
+    "exampleEnglish": "Here is the gift.",
+    "audio": {
+      "word": "words/0187.mp3",
+      "example": "examples/0187.mp3"
+    }
+  },
+  {
+    "id": "0188",
+    "german": "das Glas",
+    "english": "glass",
+    "example": "Hier ist das Glas.",
+    "exampleEnglish": "Here is the glass.",
+    "audio": {
+      "word": "words/0188.mp3",
+      "example": "examples/0188.mp3"
+    }
+  },
+  {
+    "id": "0189",
+    "german": "das Haar",
+    "english": "hair",
+    "example": "Hier ist das Haar.",
+    "exampleEnglish": "Here is the hair.",
+    "audio": {
+      "word": "words/0189.mp3",
+      "example": "examples/0189.mp3"
+    }
+  },
+  {
+    "id": "0190",
+    "german": "das Handy",
+    "english": "cell phone",
+    "example": "Hier ist das Handy.",
+    "exampleEnglish": "Here is the cell phone.",
+    "audio": {
+      "word": "words/0190.mp3",
+      "example": "examples/0190.mp3"
+    }
+  },
+  {
+    "id": "0191",
+    "german": "das Hemd",
+    "english": "shirt",
+    "example": "Hier ist das Hemd.",
+    "exampleEnglish": "Here is the shirt.",
+    "audio": {
+      "word": "words/0191.mp3",
+      "example": "examples/0191.mp3"
+    }
+  },
+  {
+    "id": "0192",
+    "german": "das Herz",
+    "english": "heart",
+    "example": "Hier ist das Herz.",
+    "exampleEnglish": "Here is the heart.",
+    "audio": {
+      "word": "words/0192.mp3",
+      "example": "examples/0192.mp3"
+    }
+  },
+  {
+    "id": "0193",
+    "german": "das Hotel",
+    "english": "hotel",
+    "example": "Hier ist das Hotel.",
+    "exampleEnglish": "Here is the hotel.",
+    "audio": {
+      "word": "words/0193.mp3",
+      "example": "examples/0193.mp3"
+    }
+  },
+  {
+    "id": "0194",
+    "german": "das Internet",
+    "english": "internet",
+    "example": "Hier ist das Internet.",
+    "exampleEnglish": "Here is the internet.",
+    "audio": {
+      "word": "words/0194.mp3",
+      "example": "examples/0194.mp3"
+    }
+  },
+  {
+    "id": "0195",
+    "german": "das Jahr",
+    "english": "year",
+    "example": "Hier ist das Jahr.",
+    "exampleEnglish": "Here is the year.",
+    "audio": {
+      "word": "words/0195.mp3",
+      "example": "examples/0195.mp3"
+    }
+  },
+  {
+    "id": "0196",
+    "german": "das Kind",
+    "english": "child",
+    "example": "Hier ist das Kind.",
+    "exampleEnglish": "Here is the child.",
+    "audio": {
+      "word": "words/0196.mp3",
+      "example": "examples/0196.mp3"
+    }
+  },
+  {
+    "id": "0197",
+    "german": "das Kino",
+    "english": "cinema",
+    "example": "Hier ist das Kino.",
+    "exampleEnglish": "Here is the cinema.",
+    "audio": {
+      "word": "words/0197.mp3",
+      "example": "examples/0197.mp3"
+    }
+  },
+  {
+    "id": "0198",
+    "german": "das Kleid",
+    "english": "dress",
+    "example": "Hier ist das Kleid.",
+    "exampleEnglish": "Here is the dress.",
+    "audio": {
+      "word": "words/0198.mp3",
+      "example": "examples/0198.mp3"
+    }
+  },
+  {
+    "id": "0199",
+    "german": "das Krankenhaus",
+    "english": "hospital",
+    "example": "Hier ist das Krankenhaus.",
+    "exampleEnglish": "Here is the hospital.",
+    "audio": {
+      "word": "words/0199.mp3",
+      "example": "examples/0199.mp3"
+    }
+  },
+  {
+    "id": "0200",
+    "german": "das Land",
+    "english": "country",
+    "example": "Hier ist das Land.",
+    "exampleEnglish": "Here is the country.",
+    "audio": {
+      "word": "words/0200.mp3",
+      "example": "examples/0200.mp3"
+    }
+  },
+  {
+    "id": "0201",
+    "german": "das Licht",
+    "english": "light",
+    "example": "Hier ist das Licht.",
+    "exampleEnglish": "Here is the light.",
+    "audio": {
+      "word": "words/0201.mp3",
+      "example": "examples/0201.mp3"
+    }
+  },
+  {
+    "id": "0202",
+    "german": "das Messer",
+    "english": "knife",
+    "example": "Hier ist das Messer.",
+    "exampleEnglish": "Here is the knife.",
+    "audio": {
+      "word": "words/0202.mp3",
+      "example": "examples/0202.mp3"
+    }
+  },
+  {
+    "id": "0203",
+    "german": "das Museum",
+    "english": "museum",
+    "example": "Hier ist das Museum.",
+    "exampleEnglish": "Here is the museum.",
+    "audio": {
+      "word": "words/0203.mp3",
+      "example": "examples/0203.mp3"
+    }
+  },
+  {
+    "id": "0204",
+    "german": "das Obst",
+    "english": "fruit",
+    "example": "Hier ist das Obst.",
+    "exampleEnglish": "Here is the fruit.",
+    "audio": {
+      "word": "words/0204.mp3",
+      "example": "examples/0204.mp3"
+    }
+  },
+  {
+    "id": "0205",
+    "german": "das Ohr",
+    "english": "ear",
+    "example": "Hier ist das Ohr.",
+    "exampleEnglish": "Here is the ear.",
+    "audio": {
+      "word": "words/0205.mp3",
+      "example": "examples/0205.mp3"
+    }
+  },
+  {
+    "id": "0206",
+    "german": "das Paket",
+    "english": "package",
+    "example": "Hier ist das Paket.",
+    "exampleEnglish": "Here is the package.",
+    "audio": {
+      "word": "words/0206.mp3",
+      "example": "examples/0206.mp3"
+    }
+  },
+  {
+    "id": "0207",
+    "german": "das Papier",
+    "english": "paper",
+    "example": "Hier ist das Papier.",
+    "exampleEnglish": "Here is the paper.",
+    "audio": {
+      "word": "words/0207.mp3",
+      "example": "examples/0207.mp3"
+    }
+  },
+  {
+    "id": "0208",
+    "german": "das Radio",
+    "english": "radio",
+    "example": "Hier ist das Radio.",
+    "exampleEnglish": "Here is the radio.",
+    "audio": {
+      "word": "words/0208.mp3",
+      "example": "examples/0208.mp3"
+    }
+  },
+  {
+    "id": "0209",
+    "german": "das Restaurant",
+    "english": "restaurant",
+    "example": "Hier ist das Restaurant.",
+    "exampleEnglish": "Here is the restaurant.",
+    "audio": {
+      "word": "words/0209.mp3",
+      "example": "examples/0209.mp3"
+    }
+  },
+  {
+    "id": "0210",
+    "german": "das Salz",
+    "english": "salt",
+    "example": "Hier ist das Salz.",
+    "exampleEnglish": "Here is the salt.",
+    "audio": {
+      "word": "words/0210.mp3",
+      "example": "examples/0210.mp3"
+    }
+  },
+  {
+    "id": "0211",
+    "german": "das Schiff",
+    "english": "ship",
+    "example": "Hier ist das Schiff.",
+    "exampleEnglish": "Here is the ship.",
+    "audio": {
+      "word": "words/0211.mp3",
+      "example": "examples/0211.mp3"
+    }
+  },
+  {
+    "id": "0212",
+    "german": "das Sofa",
+    "english": "sofa",
+    "example": "Hier ist das Sofa.",
+    "exampleEnglish": "Here is the sofa.",
+    "audio": {
+      "word": "words/0212.mp3",
+      "example": "examples/0212.mp3"
+    }
+  },
+  {
+    "id": "0213",
+    "german": "das Spiel",
+    "english": "game",
+    "example": "Hier ist das Spiel.",
+    "exampleEnglish": "Here is the game.",
+    "audio": {
+      "word": "words/0213.mp3",
+      "example": "examples/0213.mp3"
+    }
+  },
+  {
+    "id": "0214",
+    "german": "das Telefon",
+    "english": "telephone",
+    "example": "Hier ist das Telefon.",
+    "exampleEnglish": "Here is the telephone.",
+    "audio": {
+      "word": "words/0214.mp3",
+      "example": "examples/0214.mp3"
+    }
+  },
+  {
+    "id": "0215",
+    "german": "das Ticket",
+    "english": "ticket",
+    "example": "Hier ist das Ticket.",
+    "exampleEnglish": "Here is the ticket.",
+    "audio": {
+      "word": "words/0215.mp3",
+      "example": "examples/0215.mp3"
+    }
+  },
+  {
+    "id": "0216",
+    "german": "das Wetter",
+    "english": "weather",
+    "example": "Hier ist das Wetter.",
+    "exampleEnglish": "Here is the weather.",
+    "audio": {
+      "word": "words/0216.mp3",
+      "example": "examples/0216.mp3"
+    }
+  },
+  {
+    "id": "0217",
+    "german": "das Wochenende",
+    "english": "weekend",
+    "example": "Hier ist das Wochenende.",
+    "exampleEnglish": "Here is the weekend.",
+    "audio": {
+      "word": "words/0217.mp3",
+      "example": "examples/0217.mp3"
+    }
+  },
+  {
+    "id": "0218",
+    "german": "das Zelt",
+    "english": "tent",
+    "example": "Hier ist das Zelt.",
+    "exampleEnglish": "Here is the tent.",
+    "audio": {
+      "word": "words/0218.mp3",
+      "example": "examples/0218.mp3"
+    }
+  },
+  {
+    "id": "0219",
+    "german": "das Ziel",
+    "english": "goal",
+    "example": "Hier ist das Ziel.",
+    "exampleEnglish": "Here is the goal.",
+    "audio": {
+      "word": "words/0219.mp3",
+      "example": "examples/0219.mp3"
+    }
+  },
+  {
+    "id": "0220",
+    "german": "das Geld",
+    "english": "money",
+    "example": "Hier ist das Geld.",
+    "exampleEnglish": "Here is the money.",
+    "audio": {
+      "word": "words/0220.mp3",
+      "example": "examples/0220.mp3"
+    }
+  },
+  {
+    "id": "0221",
+    "german": "das Gemüse",
+    "english": "vegetables",
+    "example": "Hier ist das Gemüse.",
+    "exampleEnglish": "Here is the vegetables.",
+    "audio": {
+      "word": "words/0221.mp3",
+      "example": "examples/0221.mp3"
+    }
+  },
+  {
+    "id": "0222",
+    "german": "das Gespräch",
+    "english": "conversation",
+    "example": "Hier ist das Gespräch.",
+    "exampleEnglish": "Here is the conversation.",
+    "audio": {
+      "word": "words/0222.mp3",
+      "example": "examples/0222.mp3"
+    }
+  },
+  {
+    "id": "0223",
+    "german": "das Problem",
+    "english": "problem",
+    "example": "Hier ist das Problem.",
+    "exampleEnglish": "Here is the problem.",
+    "audio": {
+      "word": "words/0223.mp3",
+      "example": "examples/0223.mp3"
+    }
+  },
+  {
+    "id": "0224",
+    "german": "das Regal",
+    "english": "shelf",
+    "example": "Hier ist das Regal.",
+    "exampleEnglish": "Here is the shelf.",
+    "audio": {
+      "word": "words/0224.mp3",
+      "example": "examples/0224.mp3"
+    }
+  },
+  {
+    "id": "0225",
+    "german": "das Sandwich",
+    "english": "sandwich",
+    "example": "Hier ist das Sandwich.",
+    "exampleEnglish": "Here is the sandwich.",
+    "audio": {
+      "word": "words/0225.mp3",
+      "example": "examples/0225.mp3"
+    }
+  },
+  {
+    "id": "0226",
+    "german": "das Handtuch",
+    "english": "towel",
+    "example": "Hier ist das Handtuch.",
+    "exampleEnglish": "Here is the towel.",
+    "audio": {
+      "word": "words/0226.mp3",
+      "example": "examples/0226.mp3"
+    }
+  },
+  {
+    "id": "0227",
+    "german": "das Kissen",
+    "english": "pillow",
+    "example": "Hier ist das Kissen.",
+    "exampleEnglish": "Here is the pillow.",
+    "audio": {
+      "word": "words/0227.mp3",
+      "example": "examples/0227.mp3"
+    }
+  },
+  {
+    "id": "0228",
+    "german": "das Schwimmbad",
+    "english": "swimming pool",
+    "example": "Hier ist das Schwimmbad.",
+    "exampleEnglish": "Here is the swimming pool.",
+    "audio": {
+      "word": "words/0228.mp3",
+      "example": "examples/0228.mp3"
+    }
+  },
+  {
+    "id": "0229",
+    "german": "das Wörterbuch",
+    "english": "dictionary",
+    "example": "Hier ist das Wörterbuch.",
+    "exampleEnglish": "Here is the dictionary.",
+    "audio": {
+      "word": "words/0229.mp3",
+      "example": "examples/0229.mp3"
+    }
+  },
+  {
+    "id": "0230",
+    "german": "arbeiten",
+    "english": "to work",
+    "example": "Ich arbeite heute.",
+    "exampleEnglish": "I am working today.",
+    "audio": {
+      "word": "words/0230.mp3",
+      "example": "examples/0230.mp3"
+    }
+  },
+  {
+    "id": "0231",
+    "german": "antworten",
+    "english": "to answer",
+    "example": "Ich antworte sofort.",
+    "exampleEnglish": "I am answering immediately.",
+    "audio": {
+      "word": "words/0231.mp3",
+      "example": "examples/0231.mp3"
+    }
+  },
+  {
+    "id": "0232",
+    "german": "beginnen",
+    "english": "to begin",
+    "example": "Wir beginnen jetzt.",
+    "exampleEnglish": "We are beginning now.",
+    "audio": {
+      "word": "words/0232.mp3",
+      "example": "examples/0232.mp3"
+    }
+  },
+  {
+    "id": "0233",
+    "german": "bekommen",
+    "english": "to receive",
+    "example": "Ich bekomme eine Nachricht.",
+    "exampleEnglish": "I am receiving a message.",
+    "audio": {
+      "word": "words/0233.mp3",
+      "example": "examples/0233.mp3"
+    }
+  },
+  {
+    "id": "0234",
+    "german": "bezahlen",
+    "english": "to pay",
+    "example": "Ich bezahle die Rechnung.",
+    "exampleEnglish": "I am paying the bill.",
+    "audio": {
+      "word": "words/0234.mp3",
+      "example": "examples/0234.mp3"
+    }
+  },
+  {
+    "id": "0235",
+    "german": "bleiben",
+    "english": "to stay",
+    "example": "Ich bleibe zu Hause.",
+    "exampleEnglish": "I am staying at home.",
+    "audio": {
+      "word": "words/0235.mp3",
+      "example": "examples/0235.mp3"
+    }
+  },
+  {
+    "id": "0236",
+    "german": "brauchen",
+    "english": "to need",
+    "example": "Ich brauche Hilfe.",
+    "exampleEnglish": "I need help.",
+    "audio": {
+      "word": "words/0236.mp3",
+      "example": "examples/0236.mp3"
+    }
+  },
+  {
+    "id": "0237",
+    "german": "bringen",
+    "english": "to bring",
+    "example": "Ich bringe das Buch.",
+    "exampleEnglish": "I am bringing the book.",
+    "audio": {
+      "word": "words/0237.mp3",
+      "example": "examples/0237.mp3"
+    }
+  },
+  {
+    "id": "0238",
+    "german": "denken",
+    "english": "to think",
+    "example": "Ich denke an dich.",
+    "exampleEnglish": "I am thinking about you.",
+    "audio": {
+      "word": "words/0238.mp3",
+      "example": "examples/0238.mp3"
+    }
+  },
+  {
+    "id": "0239",
+    "german": "dürfen",
+    "english": "to be allowed to",
+    "example": "Ich darf hier sitzen.",
+    "exampleEnglish": "I am allowed to sit here.",
+    "audio": {
+      "word": "words/0239.mp3",
+      "example": "examples/0239.mp3"
+    }
+  },
+  {
+    "id": "0240",
+    "german": "einkaufen",
+    "english": "to shop",
+    "example": "Ich kaufe heute ein.",
+    "exampleEnglish": "I am shopping today.",
+    "audio": {
+      "word": "words/0240.mp3",
+      "example": "examples/0240.mp3"
+    }
+  },
+  {
+    "id": "0241",
+    "german": "erklären",
+    "english": "to explain",
+    "example": "Ich erkläre die Aufgabe.",
+    "exampleEnglish": "I am explaining the assignment.",
+    "audio": {
+      "word": "words/0241.mp3",
+      "example": "examples/0241.mp3"
+    }
+  },
+  {
+    "id": "0242",
+    "german": "erzählen",
+    "english": "to tell",
+    "example": "Ich erzähle eine Geschichte.",
+    "exampleEnglish": "I am telling a story.",
+    "audio": {
+      "word": "words/0242.mp3",
+      "example": "examples/0242.mp3"
+    }
+  },
+  {
+    "id": "0243",
+    "german": "fahren",
+    "english": "to drive",
+    "example": "Ich fahre nach Berlin.",
+    "exampleEnglish": "I am driving to Berlin.",
+    "audio": {
+      "word": "words/0243.mp3",
+      "example": "examples/0243.mp3"
+    }
+  },
+  {
+    "id": "0244",
+    "german": "finden",
+    "english": "to find",
+    "example": "Ich finde den Schlüssel.",
+    "exampleEnglish": "I am finding the key.",
+    "audio": {
+      "word": "words/0244.mp3",
+      "example": "examples/0244.mp3"
+    }
+  },
+  {
+    "id": "0245",
+    "german": "fragen",
+    "english": "to ask",
+    "example": "Ich frage den Lehrer.",
+    "exampleEnglish": "I am asking the teacher.",
+    "audio": {
+      "word": "words/0245.mp3",
+      "example": "examples/0245.mp3"
+    }
+  },
+  {
+    "id": "0246",
+    "german": "geben",
+    "english": "to give",
+    "example": "Ich gebe dir das Buch.",
+    "exampleEnglish": "I am giving you the book.",
+    "audio": {
+      "word": "words/0246.mp3",
+      "example": "examples/0246.mp3"
+    }
+  },
+  {
+    "id": "0247",
+    "german": "glauben",
+    "english": "to believe",
+    "example": "Ich glaube dir.",
+    "exampleEnglish": "I believe you.",
+    "audio": {
+      "word": "words/0247.mp3",
+      "example": "examples/0247.mp3"
+    }
+  },
+  {
+    "id": "0248",
+    "german": "haben",
+    "english": "to have",
+    "example": "Ich habe Zeit.",
+    "exampleEnglish": "I have time.",
+    "audio": {
+      "word": "words/0248.mp3",
+      "example": "examples/0248.mp3"
+    }
+  },
+  {
+    "id": "0249",
+    "german": "helfen",
+    "english": "to help",
+    "example": "Ich helfe meinem Freund.",
+    "exampleEnglish": "I am helping my friend.",
+    "audio": {
+      "word": "words/0249.mp3",
+      "example": "examples/0249.mp3"
+    }
+  },
+  {
+    "id": "0250",
+    "german": "hören",
+    "english": "to hear",
+    "example": "Ich höre Musik.",
+    "exampleEnglish": "I am listening to music.",
+    "audio": {
+      "word": "words/0250.mp3",
+      "example": "examples/0250.mp3"
+    }
+  },
+  {
+    "id": "0251",
+    "german": "kaufen",
+    "english": "to buy",
+    "example": "Ich kaufe Brot.",
+    "exampleEnglish": "I am buying bread.",
+    "audio": {
+      "word": "words/0251.mp3",
+      "example": "examples/0251.mp3"
+    }
+  },
+  {
+    "id": "0252",
+    "german": "kennen",
+    "english": "to know",
+    "example": "Ich kenne diese Stadt.",
+    "exampleEnglish": "I know this city.",
+    "audio": {
+      "word": "words/0252.mp3",
+      "example": "examples/0252.mp3"
+    }
+  },
+  {
+    "id": "0253",
+    "german": "kochen",
+    "english": "to cook",
+    "example": "Ich koche eine Suppe.",
+    "exampleEnglish": "I am cooking a soup.",
+    "audio": {
+      "word": "words/0253.mp3",
+      "example": "examples/0253.mp3"
+    }
+  },
+  {
+    "id": "0254",
+    "german": "kosten",
+    "english": "to cost",
+    "example": "Das kostet zehn Euro.",
+    "exampleEnglish": "That costs ten euros.",
+    "audio": {
+      "word": "words/0254.mp3",
+      "example": "examples/0254.mp3"
+    }
+  },
+  {
+    "id": "0255",
+    "german": "lachen",
+    "english": "to laugh",
+    "example": "Wir lachen zusammen.",
+    "exampleEnglish": "We are laughing together.",
+    "audio": {
+      "word": "words/0255.mp3",
+      "example": "examples/0255.mp3"
+    }
+  },
+  {
+    "id": "0256",
+    "german": "leben",
+    "english": "to live",
+    "example": "Ich lebe in Deutschland.",
+    "exampleEnglish": "I live in Germany.",
+    "audio": {
+      "word": "words/0256.mp3",
+      "example": "examples/0256.mp3"
+    }
+  },
+  {
+    "id": "0257",
+    "german": "lieben",
+    "english": "to love",
+    "example": "Ich liebe diesen Film.",
+    "exampleEnglish": "I love this movie.",
+    "audio": {
+      "word": "words/0257.mp3",
+      "example": "examples/0257.mp3"
+    }
+  },
+  {
+    "id": "0258",
+    "german": "machen",
+    "english": "to do",
+    "example": "Ich mache meine Arbeit.",
+    "exampleEnglish": "I am doing my work.",
+    "audio": {
+      "word": "words/0258.mp3",
+      "example": "examples/0258.mp3"
+    }
+  },
+  {
+    "id": "0259",
+    "german": "müssen",
+    "english": "to have to",
+    "example": "Ich muss jetzt gehen.",
+    "exampleEnglish": "I have to go now.",
+    "audio": {
+      "word": "words/0259.mp3",
+      "example": "examples/0259.mp3"
+    }
+  },
+  {
+    "id": "0260",
+    "german": "nehmen",
+    "english": "to take",
+    "example": "Ich nehme den Bus.",
+    "exampleEnglish": "I am taking the bus.",
+    "audio": {
+      "word": "words/0260.mp3",
+      "example": "examples/0260.mp3"
+    }
+  },
+  {
+    "id": "0261",
+    "german": "öffnen",
+    "english": "to open",
+    "example": "Ich öffne das Fenster.",
+    "exampleEnglish": "I am opening the window.",
+    "audio": {
+      "word": "words/0261.mp3",
+      "example": "examples/0261.mp3"
+    }
+  },
+  {
+    "id": "0262",
+    "german": "reisen",
+    "english": "to travel",
+    "example": "Wir reisen im Sommer.",
+    "exampleEnglish": "We travel in the summer.",
+    "audio": {
+      "word": "words/0262.mp3",
+      "example": "examples/0262.mp3"
+    }
+  },
+  {
+    "id": "0263",
+    "german": "schlafen",
+    "english": "to sleep",
+    "example": "Ich schlafe acht Stunden.",
+    "exampleEnglish": "I sleep for eight hours.",
+    "audio": {
+      "word": "words/0263.mp3",
+      "example": "examples/0263.mp3"
+    }
+  },
+  {
+    "id": "0264",
+    "german": "schließen",
+    "english": "to close",
+    "example": "Ich schließe die Tür.",
+    "exampleEnglish": "I am closing the door.",
+    "audio": {
+      "word": "words/0264.mp3",
+      "example": "examples/0264.mp3"
+    }
+  },
+  {
+    "id": "0265",
+    "german": "schwimmen",
+    "english": "to swim",
+    "example": "Ich schwimme im See.",
+    "exampleEnglish": "I am swimming in the lake.",
+    "audio": {
+      "word": "words/0265.mp3",
+      "example": "examples/0265.mp3"
+    }
+  },
+  {
+    "id": "0266",
+    "german": "sehen",
+    "english": "to see",
+    "example": "Ich sehe den Mond.",
+    "exampleEnglish": "I see the moon.",
+    "audio": {
+      "word": "words/0266.mp3",
+      "example": "examples/0266.mp3"
+    }
+  },
+  {
+    "id": "0267",
+    "german": "singen",
+    "english": "to sing",
+    "example": "Wir singen ein Lied.",
+    "exampleEnglish": "We are singing a song.",
+    "audio": {
+      "word": "words/0267.mp3",
+      "example": "examples/0267.mp3"
+    }
+  },
+  {
+    "id": "0268",
+    "german": "sitzen",
+    "english": "to sit",
+    "example": "Ich sitze am Tisch.",
+    "exampleEnglish": "I am sitting at the table.",
+    "audio": {
+      "word": "words/0268.mp3",
+      "example": "examples/0268.mp3"
+    }
+  },
+  {
+    "id": "0269",
+    "german": "spielen",
+    "english": "to play",
+    "example": "Wir spielen ein Spiel.",
+    "exampleEnglish": "We are playing a game.",
+    "audio": {
+      "word": "words/0269.mp3",
+      "example": "examples/0269.mp3"
+    }
+  },
+  {
+    "id": "0270",
+    "german": "stehen",
+    "english": "to stand",
+    "example": "Ich stehe vor dem Haus.",
+    "exampleEnglish": "I am standing in front of the house.",
+    "audio": {
+      "word": "words/0270.mp3",
+      "example": "examples/0270.mp3"
+    }
+  },
+  {
+    "id": "0271",
+    "german": "suchen",
+    "english": "to search",
+    "example": "Ich suche meine Tasche.",
+    "exampleEnglish": "I am looking for my bag.",
+    "audio": {
+      "word": "words/0271.mp3",
+      "example": "examples/0271.mp3"
+    }
+  },
+  {
+    "id": "0272",
+    "german": "tanzen",
+    "english": "to dance",
+    "example": "Wir tanzen auf der Party.",
+    "exampleEnglish": "We are dancing at the party.",
+    "audio": {
+      "word": "words/0272.mp3",
+      "example": "examples/0272.mp3"
+    }
+  },
+  {
+    "id": "0273",
+    "german": "tragen",
+    "english": "to wear",
+    "example": "Ich trage eine Jacke.",
+    "exampleEnglish": "I am wearing a jacket.",
+    "audio": {
+      "word": "words/0273.mp3",
+      "example": "examples/0273.mp3"
+    }
+  },
+  {
+    "id": "0274",
+    "german": "treffen",
+    "english": "to meet",
+    "example": "Ich treffe meine Freunde.",
+    "exampleEnglish": "I am meeting my friends.",
+    "audio": {
+      "word": "words/0274.mp3",
+      "example": "examples/0274.mp3"
+    }
+  },
+  {
+    "id": "0275",
+    "german": "verstehen",
+    "english": "to understand",
+    "example": "Ich verstehe die Frage.",
+    "exampleEnglish": "I understand the question.",
+    "audio": {
+      "word": "words/0275.mp3",
+      "example": "examples/0275.mp3"
+    }
+  },
+  {
+    "id": "0276",
+    "german": "warten",
+    "english": "to wait",
+    "example": "Ich warte auf den Zug.",
+    "exampleEnglish": "I am waiting for the train.",
+    "audio": {
+      "word": "words/0276.mp3",
+      "example": "examples/0276.mp3"
+    }
+  },
+  {
+    "id": "0277",
+    "german": "waschen",
+    "english": "to wash",
+    "example": "Ich wasche meine Hände.",
+    "exampleEnglish": "I am washing my hands.",
+    "audio": {
+      "word": "words/0277.mp3",
+      "example": "examples/0277.mp3"
+    }
+  },
+  {
+    "id": "0278",
+    "german": "wohnen",
+    "english": "to live",
+    "example": "Ich wohne in einer Wohnung.",
+    "exampleEnglish": "I live in an apartment.",
+    "audio": {
+      "word": "words/0278.mp3",
+      "example": "examples/0278.mp3"
+    }
+  },
+  {
+    "id": "0279",
+    "german": "wollen",
+    "english": "to want",
+    "example": "Ich will Deutsch lernen.",
+    "exampleEnglish": "I want to learn German.",
+    "audio": {
+      "word": "words/0279.mp3",
+      "example": "examples/0279.mp3"
+    }
+  },
+  {
+    "id": "0280",
+    "german": "zeigen",
+    "english": "to show",
+    "example": "Ich zeige dir das Bild.",
+    "exampleEnglish": "I am showing you the picture.",
+    "audio": {
+      "word": "words/0280.mp3",
+      "example": "examples/0280.mp3"
+    }
+  },
+  {
+    "id": "0281",
+    "german": "alt",
+    "english": "old",
+    "example": "Das ist alt.",
+    "exampleEnglish": "That is old.",
+    "audio": {
+      "word": "words/0281.mp3",
+      "example": "examples/0281.mp3"
+    }
+  },
+  {
+    "id": "0282",
+    "german": "anders",
+    "english": "different",
+    "example": "Das ist anders.",
+    "exampleEnglish": "That is different.",
+    "audio": {
+      "word": "words/0282.mp3",
+      "example": "examples/0282.mp3"
+    }
+  },
+  {
+    "id": "0283",
+    "german": "billig",
+    "english": "cheap",
+    "example": "Das ist billig.",
+    "exampleEnglish": "That is cheap.",
+    "audio": {
+      "word": "words/0283.mp3",
+      "example": "examples/0283.mp3"
+    }
+  },
+  {
+    "id": "0284",
+    "german": "breit",
+    "english": "wide",
+    "example": "Das ist breit.",
+    "exampleEnglish": "That is wide.",
+    "audio": {
+      "word": "words/0284.mp3",
+      "example": "examples/0284.mp3"
+    }
+  },
+  {
+    "id": "0285",
+    "german": "dunkel",
+    "english": "dark",
+    "example": "Das ist dunkel.",
+    "exampleEnglish": "That is dark.",
+    "audio": {
+      "word": "words/0285.mp3",
+      "example": "examples/0285.mp3"
+    }
+  },
+  {
+    "id": "0286",
+    "german": "einfach",
+    "english": "simple",
+    "example": "Das ist einfach.",
+    "exampleEnglish": "That is simple.",
+    "audio": {
+      "word": "words/0286.mp3",
+      "example": "examples/0286.mp3"
+    }
+  },
+  {
+    "id": "0287",
+    "german": "falsch",
+    "english": "wrong",
+    "example": "Das ist falsch.",
+    "exampleEnglish": "That is wrong.",
+    "audio": {
+      "word": "words/0287.mp3",
+      "example": "examples/0287.mp3"
+    }
+  },
+  {
+    "id": "0288",
+    "german": "früh",
+    "english": "early",
+    "example": "Das ist früh.",
+    "exampleEnglish": "That is early.",
+    "audio": {
+      "word": "words/0288.mp3",
+      "example": "examples/0288.mp3"
+    }
+  },
+  {
+    "id": "0289",
+    "german": "gefährlich",
+    "english": "dangerous",
+    "example": "Das ist gefährlich.",
+    "exampleEnglish": "That is dangerous.",
+    "audio": {
+      "word": "words/0289.mp3",
+      "example": "examples/0289.mp3"
+    }
+  },
+  {
+    "id": "0290",
+    "german": "gesund",
+    "english": "healthy",
+    "example": "Das ist gesund.",
+    "exampleEnglish": "That is healthy.",
+    "audio": {
+      "word": "words/0290.mp3",
+      "example": "examples/0290.mp3"
+    }
+  },
+  {
+    "id": "0291",
+    "german": "heiß",
+    "english": "hot",
+    "example": "Das ist heiß.",
+    "exampleEnglish": "That is hot.",
+    "audio": {
+      "word": "words/0291.mp3",
+      "example": "examples/0291.mp3"
+    }
+  },
+  {
+    "id": "0292",
+    "german": "hell",
+    "english": "bright",
+    "example": "Das ist hell.",
+    "exampleEnglish": "That is bright.",
+    "audio": {
+      "word": "words/0292.mp3",
+      "example": "examples/0292.mp3"
+    }
+  },
+  {
+    "id": "0293",
+    "german": "hungrig",
+    "english": "hungry",
+    "example": "Das ist hungrig.",
+    "exampleEnglish": "That is hungry.",
+    "audio": {
+      "word": "words/0293.mp3",
+      "example": "examples/0293.mp3"
+    }
+  },
+  {
+    "id": "0294",
+    "german": "interessant",
+    "english": "interesting",
+    "example": "Das ist interessant.",
+    "exampleEnglish": "That is interesting.",
+    "audio": {
+      "word": "words/0294.mp3",
+      "example": "examples/0294.mp3"
+    }
+  },
+  {
+    "id": "0295",
+    "german": "kalt",
+    "english": "cold",
+    "example": "Das ist kalt.",
+    "exampleEnglish": "That is cold.",
+    "audio": {
+      "word": "words/0295.mp3",
+      "example": "examples/0295.mp3"
+    }
+  },
+  {
+    "id": "0296",
+    "german": "kaputt",
+    "english": "broken",
+    "example": "Das ist kaputt.",
+    "exampleEnglish": "That is broken.",
+    "audio": {
+      "word": "words/0296.mp3",
+      "example": "examples/0296.mp3"
+    }
+  },
+  {
+    "id": "0297",
+    "german": "klar",
+    "english": "clear",
+    "example": "Das ist klar.",
+    "exampleEnglish": "That is clear.",
+    "audio": {
+      "word": "words/0297.mp3",
+      "example": "examples/0297.mp3"
+    }
+  },
+  {
+    "id": "0298",
+    "german": "kurz",
+    "english": "short",
+    "example": "Das ist kurz.",
+    "exampleEnglish": "That is short.",
+    "audio": {
+      "word": "words/0298.mp3",
+      "example": "examples/0298.mp3"
+    }
+  },
+  {
+    "id": "0299",
+    "german": "lang",
+    "english": "long",
+    "example": "Das ist lang.",
+    "exampleEnglish": "That is long.",
+    "audio": {
+      "word": "words/0299.mp3",
+      "example": "examples/0299.mp3"
+    }
+  },
+  {
+    "id": "0300",
+    "german": "laut",
+    "english": "loud",
+    "example": "Das ist laut.",
+    "exampleEnglish": "That is loud.",
+    "audio": {
+      "word": "words/0300.mp3",
+      "example": "examples/0300.mp3"
+    }
+  }
+]
