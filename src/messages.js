@@ -24,11 +24,11 @@ function vocabularyAudioFiles(words) {
     return [
     audioAttachment(
       word.audio?.word,
-      `${number} - ${safeName(word.german)} (${safeName(word.english)}).mp3`
+      `${number} - ${safeName(word.german)}.mp3`
     ),
     audioAttachment(
       word.audio?.example,
-      `${number} - ${safeName(word.example)} (${safeName(word.exampleEnglish)}).mp3`
+      `${number} - ${safeName(word.example).replace(/\.$/, "")}.mp3`
     )
     ];
   }).filter(Boolean);
@@ -98,5 +98,11 @@ export function buildQuizMessages(questions, quizId) {
     return message;
   });
 
-  return [intro, ...questionMessages];
+  const spaced=[];
+  questionMessages.forEach((m)=>{
+    spaced.push({ content: "‎" });
+    spaced.push(m);
+  });
+
+  return [intro, ...spaced];
 }
